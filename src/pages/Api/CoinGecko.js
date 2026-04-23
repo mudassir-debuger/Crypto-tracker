@@ -1,4 +1,4 @@
-const BASE_URL = "/api/v3";
+const BASE_URL = "https://api.coingecko.com/api/v3";
 
 export const fetchCryptos = async () => {
   const response = await fetch(
