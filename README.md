@@ -1,16 +1,37 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Crypto Tracker
 
-Currently, two official plugins are available:
+Crypto Tracker is a frontend application built with React that allows users to explore up-to-date cryptocurrency data in an intuitive and user-friendly interface. It demonstrates API integration, dynamic rendering, and clean UI design.A modern and responsive cryptocurrency tracking web application that provides real-time market data, including prices, market capitalization, and detailed insights for various cryptocurrencies using the CoinGecko API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Key Features
+- 📊 Real-time cryptocurrency price tracking  
+- 🔍 Detailed coin information view  
+- 🔎 Search and filter functionality  
+- 📈 Data visualization with charts  
+- 🌙 Dark/Light mode support  
+- 🔄 Dynamic data fetching from external API  
+- 📱 Fully responsive and clean UI  
+- ⚡ Fast performance using Vite  
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+)
+- **Styling:** CSS
+- **Build Tool:** Vite
+- **API:** CoinGecko API
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+🔗 https://glowing-kangaroo-61cc95.netlify.app
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/mudassir-debuger/Crypto-tracker.git
